@@ -1,0 +1,25 @@
+{
+  "name": "learn-js-maps-and-sets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehtishamulhaq/learn-js-maps-and-sets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/mehtishamulhaq/learn-js-maps-and-sets/issues"
+  },
+  "homepage": "https://github.com/mehtishamulhaq/learn-js-maps-and-sets#readme",
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
